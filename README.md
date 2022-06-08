@@ -13,6 +13,7 @@ The main idea of the proposed MSR-3DCNN is based on two novel designs: spectral 
 
 ## Citation
 Please kindly cite the papers if this code is useful and helpful for your research.
+
 @Article{rs13071248,
 AUTHOR = {Xu, Hao and Yao, Wei and Cheng, Li and Li, Bo},
 TITLE = {Multiple Spectral Resolution 3D Convolutional Neural Network for Hyperspectral Image Classification},
