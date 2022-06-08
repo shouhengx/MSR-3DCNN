@@ -12,8 +12,7 @@ The paper can be found at https://www.mdpi.com/2072-4292/13/7/1248.
 The main idea of the proposed MSR-3DCNN is based on two novel designs: spectral dilated convolution and multiple spectral resolution fusion. These two designs give the proposed model three advantages: First of all, operations based on SDC are quite efficient to extract spectral features in HSIs. Then, the MSR modules in the proposed model can effectively make use of the rich spectral information in HSIs. As more attention has been paid to the processing of spectral information, MSR-3DCNN shows less reliance on spatial information and therefore is more robust to images with different spatial structures.
 
 ## Citation
-Please kindly cite the papers if this code is useful and helpful for your research.
-
+Please kindly cite the papers if this code is useful and helpful for your research.  
 @Article{rs13071248,
 AUTHOR = {Xu, Hao and Yao, Wei and Cheng, Li and Li, Bo},
 TITLE = {Multiple Spectral Resolution 3D Convolutional Neural Network for Hyperspectral Image Classification},
