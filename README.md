@@ -2,6 +2,7 @@
 
 ## Model
 ![MSR-3DCNN](https://user-images.githubusercontent.com/66879051/172546821-0c433f40-acf5-41e2-9ccc-41ecf2606a34.jpg)
+
 The main idea of the proposed MSR-3DCNN is based on two novel designs: spectral dilated convolution and multiple spectral resolution fusion. These two designs give the proposed model three advantages: First of all, operations based on SDC are quite efficient to extract spectral features in HSIs. Then, the MSR modules in the proposed model can effectively make use of the rich spectral information in HSIs. As more attention has been paid to the processing of spectral information, MSR-3DCNN shows less reliance on spatial information and therefore is more robust to images with different spatial structures.
 
 
